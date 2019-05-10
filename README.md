@@ -3,8 +3,10 @@
 ## 北京大学
 
 [贵校课程资料民间整理](https://github.com/lib-pku/libpku)  
+[北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
 
 ## 清华大学
+[清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 ## 上海交通大学
 [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses)
