@@ -17,6 +17,9 @@
 ## 浙江大学
 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 
+## 东南大学
+[东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
+
 ## 杭州电子科技大学
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
 
