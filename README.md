@@ -26,3 +26,5 @@
 ## 山东科技大学
 [山东科技大学课程资源共享计划](https://github.com/deepwzh/sdust-examination-materials)
 
+## 广东工业大学
+[广东工业大学计算机学院课程攻略 - 毕业设计、校招、课程设计、实验、论文模板、试卷、习题解答等等](https://github.com/brenner8023/gdut-course)
