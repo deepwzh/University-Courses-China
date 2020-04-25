@@ -28,3 +28,6 @@
 
 ## 广东工业大学
 [广东工业大学计算机学院课程攻略 - 毕业设计、校招、课程设计、实验、论文模板、试卷、习题解答等等](https://github.com/brenner8023/gdut-course)
+
+## 武汉大学
+[武汉大学课程资料整理-WHU课代表计划](https://github.com/openwhu/Op)
