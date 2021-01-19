@@ -14,6 +14,9 @@
 ## 中国科学技术大学
 [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 
+## 北京航空航天大学
+[北京航空航天大学(北航)课程作业资料共享平台 😀](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
+
 ## 浙江大学
 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 
