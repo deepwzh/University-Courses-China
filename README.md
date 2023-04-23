@@ -34,3 +34,6 @@
 
 ## 武汉大学
 [武汉大学课程资料整理-WHU课代表计划](https://github.com/openwhu/Op)
+
+## 电子科技大学
+[电子科技大学课程资料共享平台](https://github.com/Xovee/uestc-course)
