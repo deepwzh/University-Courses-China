@@ -23,6 +23,9 @@
 ## 东南大学
 [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
 
+## 厦门大学
+[厦门大学攻略大全](https://github.com/XMU-Helper/home)
+
 ## 杭州电子科技大学
 [用于向所有杭电学子分享在杭电的知识与经验](https://github.com/FengGuanxi/HDU-Experience)
 
@@ -37,3 +40,10 @@
 
 ## 电子科技大学
 [电子科技大学课程资料共享平台](https://github.com/Xovee/uestc-course)
+
+## 中山大学
+[中山大学计算机学院的课程资料](https://github.com/ysyisyourbrother/SYSU_Notebook)
+
+## 南京邮电大学
+[南京邮电大学通识课程历年资料](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams)
+
